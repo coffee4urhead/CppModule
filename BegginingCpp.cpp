@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+// This is the solution for Cinema Tickets
 int main()
 {
 	std::string dayOfTheWeek{ };
